@@ -457,7 +457,7 @@ GameObject:
   - component: {fileID: 525066460}
   - component: {fileID: 525066464}
   m_Layer: 0
-  m_Name: "J\xF3ska"
+  m_Name: Pista
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
